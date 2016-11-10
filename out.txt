@@ -1,0 +1,5 @@
+    A  B  C  D 
+1   X  X  X  O 
+2   X  X  X  O 
+3   X  X  X  O 
+4   X  O  X  X 
